@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.akashgarg.app.util.callback.NetworkCallback
+
 /**
  * Created by AkashGarg on 9/11/2018.
  */

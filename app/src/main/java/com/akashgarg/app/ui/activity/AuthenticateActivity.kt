@@ -60,7 +60,7 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
         pbDialog!!.hide()
     }
 
-    override fun  navigate() {
+    override fun navigate() {
         Toast.makeText(this, "Credential Valid", Toast.LENGTH_SHORT).show()
     }
 
