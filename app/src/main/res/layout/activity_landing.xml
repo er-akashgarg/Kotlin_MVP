@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha=".3"
+        android:scaleType="centerCrop"
+        android:src="@drawable/login_design" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:padding="@dimen/_15sdp">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/et_userName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/font_heading"
+            android:hint="Enter Username"
+            android:imeOptions="actionDone"
+            android:inputType="textNoSuggestions"
+            android:textColor="@color/cl_blue"
+            android:textSize="@dimen/_16sdp" />
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/et_userPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="@font/font_heading"
+            android:hint="Enter Password"
+            android:imeOptions="actionDone"
+            android:inputType="textWebPassword"
+            android:textColor="@color/cl_blue"
+            android:textSize="@dimen/_16sdp" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:fontFamily="@font/font_heading"
+            android:text="Login"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_17sdp"
+            app:backgroundTint="@color/cl_orange" />
+
+    </LinearLayout>
+
+</RelativeLayout>

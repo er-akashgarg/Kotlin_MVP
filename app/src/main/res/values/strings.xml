@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinMVP</string>
+    <string name="title">Kotlin With MVP</string>
+    <string name="app_developed">Developed By : Akash Garg</string>
+</resources>
