@@ -8,7 +8,6 @@ import android.os.Bundle
 import android.support.v4.content.LocalBroadcastManager
 import android.support.v7.app.AppCompatActivity
 import android.widget.EditText
-import android.widget.TextView
 import com.akashgarg.app.util.Consts
 import com.akashgarg.app.util.NetworkUtils
 import com.akashgarg.app.util.callback.NetworkCallback
@@ -19,18 +18,14 @@ import com.akashgarg.app.util.callback.NetworkCallback
 
 
 abstract class BaseActivity : AppCompatActivity(), NetworkCallback {
-
     var networkBroadcast: BroadcastReceiver? = null
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(setLayout())
         layoutAdded(savedInstanceState)
-
     }
 
     abstract fun layoutAdded(savedInstanceState: Bundle?)
-
 
     abstract fun setLayout(): Int
 
@@ -60,10 +55,6 @@ abstract class BaseActivity : AppCompatActivity(), NetworkCallback {
 
     fun getText(editText: EditText?): String {
         return editText?.text.toString().trim()
-    }
-
-    fun getText(textView: TextView?): String {
-        return textView?.text.toString().trim()
     }
 
 }

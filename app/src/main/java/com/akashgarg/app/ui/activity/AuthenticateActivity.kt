@@ -64,7 +64,6 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
         Toast.makeText(this, "Credential Valid", Toast.LENGTH_SHORT).show()
     }
 
-
     private var pbDialog: ProgressDialog? = null
 
     fun listner() {
