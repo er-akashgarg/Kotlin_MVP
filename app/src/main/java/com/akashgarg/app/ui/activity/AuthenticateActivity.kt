@@ -20,7 +20,6 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
     private var btnLogin: Button? = null
 
     override fun onNetworkChange(isConnected: Boolean) {
-
     }
 
     private var authPresentor: AuthenticatePresentorImpl? = null
@@ -61,7 +60,7 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
     }
 
     override fun navigate() {
-        Toast.makeText(this, "Credential Valid", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Credential Valid..!", Toast.LENGTH_SHORT).show()
     }
 
     private var pbDialog: ProgressDialog? = null
