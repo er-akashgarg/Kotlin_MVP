@@ -4,10 +4,18 @@ apply plugin: 'kotlin-android'
 //apply plugin: 'kotlin-android-extensions'
 
 android {
+    signingConfigs {
+        config {
+            keyAlias 'mvpdemo'
+            keyPassword 'android'
+            storeFile file('/Users/akashgarg/AndroidStudioProjects/KotlinMVP_Basic/app/assests/kotinmvpjks.jks')
+            storePassword 'android'
+        }
+    }
     compileSdkVersion 27
     buildToolsVersion '28.0.2'
     defaultConfig {
-        applicationId "com.dinesh.app"
+        applicationId "com.akashgarg.app"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
@@ -16,16 +24,26 @@ android {
     }
     buildTypes {
         release {
+            signingConfig signingConfigs.config
             minifyEnabled true
             useProguard true
             shrinkResources true
+            zipAlignEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            debuggable false
+            jniDebuggable false
+            signingConfig signingConfigs.config
+            renderscriptDebuggable false
+            minifyEnabled false
+            zipAlignEnabled false
         }
     }
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support:design:27.1.1'
