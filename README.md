@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/akashgarg1000/AzureSample/_apis/build/status/er-akashgarg.Kotlin_MVP)](https://dev.azure.com/akashgarg1000/AzureSample/_build/latest?definitionId=5)
 # KotlinMVP_Basic
 Basic Structure what we plan before starting a project. Its not very complex I have kept it much simpler for better understanding using Kotlin MVP
 # Build environment requirements
