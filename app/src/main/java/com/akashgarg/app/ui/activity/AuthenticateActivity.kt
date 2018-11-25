@@ -27,7 +27,7 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
     override fun layoutAdded(savedInstanceState: android.os.Bundle?) {
         initViews()
         authPresentor = AuthenticatePresentorImpl(this)
-        listner()
+        listener()
     }
 
     override fun setLayout(): Int {
@@ -65,7 +65,7 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
 
     private var pbDialog: ProgressDialog? = null
 
-    fun listner() {
+    private fun listener() {
         btnLogin?.setOnClickListener {
             authPresentor?.validate(getText(etUserName), getText(etUserPass))
         }
