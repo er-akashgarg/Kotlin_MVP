@@ -40,7 +40,6 @@ class AuthenticateActivity : BaseActivity(), AuthenticateView {
         btnLogin = findViewById(R.id.btn_login)
     }
 
-
     override fun onUserNameError() {
         etUserName?.error = "Invalid Username"
         etUserName?.requestFocus()
