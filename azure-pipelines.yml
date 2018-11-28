@@ -1,23 +1,67 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
+queue:
+  name: Hosted macOS
+  demands:
+  - java
+  - JDK
+  - AndroidSDK
 
-pool:
- vmImage: 'macOS-10.13'
-
+#Your build pipeline references an undefined variable named ‘Parameters.wrapperScript’. Create or edit the build pipeline for this YAML file, define the variable on the Variables tab. See https://go.microsoft.com/fwlink/?linkid=865972
+#Your build pipeline references an undefined variable named ‘Parameters.tasks’. Create or edit the build pipeline for this YAML file, define the variable on the Variables tab. See https://go.microsoft.com/fwlink/?linkid=865972
 steps:
 - task: Gradle@2
+  displayName: 'gradlew build'
   inputs:
-  apkFiles: '**/*.apk'
-      jarsign: true
-      jarsignerKeystoreFile: 'assests/kotinmvpjks.jks'
-      jarsignerKeystorePassword: '$(android)'
-      jarsignerKeystoreAlias: 'mvpdemo'
-      jarsignerKeyPassword: '$(android)'
-      workingDirectory: ''
-      gradleWrapperFile: 'gradlew'
-      gradleOptions: '-Xmx3072m'
-      publishJUnitResults: false
-      testResultsFiles: '**/TEST-*.xml'
-      tasks: 'assembleDebug'
+    gradleWrapperFile: '$(Parameters.wrapperScript)'
+
+    workingDirectory: build.gradle
+
+    tasks: '$(Parameters.tasks)'
+
+
+- task: AndroidSigning@1
+  displayName: 'Signing and aligning APK file(s) **/*.apk'
+  inputs:
+    files: '**/*.apk'
+
+    keystoreFile: '8819d3d5-e854-4ce9-870f-b60aa83d28b6'
+
+    keystorePass: android
+
+    keystoreAlias: mvpdemo
+
+    keyPass: android
+
+    zipalign: false
+
+
+- task: CopyFiles@2
+  displayName: 'Copy Files to: $(build.artifactstagingdirectory)'
+  inputs:
+    SourceFolder: '$(system.defaultworkingdirectory)'
+
+    Contents: '**/*.apk'
+
+    TargetFolder: '$(build.artifactstagingdirectory)'
+
+
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Artifact: drop'
+  inputs:
+    PathtoPublish: '$(build.artifactstagingdirectory)'
+
+
+- task: AppCenterTest@1
+  displayName: 'Test with Visual Studio App Center'
+  inputs:
+    appFile: '**/*.apk'
+
+  enabled: false
+
+- task: AppCenterDistribute@1
+  displayName: 'Deploy **/*.apk to Visual Studio App Center'
+  inputs:
+    appFile: '**/*.apk'
+
+    symbolsIncludeParentDirectory: false
+
+  enabled: false
