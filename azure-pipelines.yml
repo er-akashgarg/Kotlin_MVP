@@ -13,9 +13,7 @@ steps:
   displayName: 'gradlew build'
   inputs:
     gradleWrapperFile: '$(Parameters.wrapperScript)'
-
     workingDirectory: build.gradle
-
     tasks: '$(Parameters.tasks)'
 
 
