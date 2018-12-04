@@ -22,7 +22,6 @@ abstract class BaseActivity : AppCompatActivity(), NetworkCallback {
         setContentView(setLayout())
         layoutAdded(savedInstanceState)
     }
-
     abstract fun layoutAdded(savedInstanceState: Bundle?)
 
     abstract fun setLayout(): Int
