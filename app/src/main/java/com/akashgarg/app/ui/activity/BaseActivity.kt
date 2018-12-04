@@ -15,8 +15,6 @@ import com.akashgarg.app.util.callback.NetworkCallback
 /**
  * Created by AkashGarg on 9/11/2018.
  */
-
-
 abstract class BaseActivity : AppCompatActivity(), NetworkCallback {
     var networkBroadcast: BroadcastReceiver? = null
     override fun onCreate(savedInstanceState: Bundle?) {
