@@ -11,7 +11,6 @@ import android.widget.EditText
 import com.akashgarg.app.util.Consts
 import com.akashgarg.app.util.NetworkUtils
 import com.akashgarg.app.util.callback.NetworkCallback
-
 /**
  * Created by AkashGarg on 9/11/2018.
  */
