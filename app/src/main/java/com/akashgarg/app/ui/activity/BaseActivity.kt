@@ -48,7 +48,6 @@ abstract class BaseActivity : AppCompatActivity(), NetworkCallback {
             exception.printStackTrace()
         }
     }
-
     fun getText(editText: EditText?): String {
         return editText?.text.toString().trim()
     }
