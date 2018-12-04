@@ -8,7 +8,7 @@ android {
         config {
             keyAlias 'mvpdemo'
             keyPassword 'android'
-            storeFile file('/Users/akashgarg/AndroidStudioProjects/KotlinMVP_Basic/app/assests/kotinmvpjks.jks')
+            storeFile file("${rootDir}/app/assests/kotinmvpjks.jks")
             storePassword 'android'
         }
     }
