@@ -9,8 +9,8 @@ queue:
   - JDK
   - AndroidSDK
 
-steps:
 
+steps:
 - task: Gradle@2
   displayName: 'gradlew build'
   inputs:
