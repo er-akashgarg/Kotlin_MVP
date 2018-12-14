@@ -14,11 +14,11 @@ steps:
 - task: Gradle@2
   displayName: 'gradlew build'
   inputs:
-        workingDirectory: ''
-        gradleWrapperFile: 'gradlew'
-        gradleOptions: '-Xmx3072m'
-        publishJUnitResults: false
-       tasks: 'assembleDebug'
+    workingDirectory: ''
+    gradleWrapperFile: 'gradlew'
+    gradleOptions: '-Xmx3072m'
+    publishJUnitResults: false
+    tasks: 'assembleDebug'
 
 - task: AndroidSigning@3
   displayName: 'Signing and aligning APK file(s) **/*.apk'
