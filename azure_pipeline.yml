@@ -28,4 +28,7 @@ steps:
     apksignerKeystoreAlias: mvpdemo
     apksignerKeyPassword: android
 
-
+- task: PublishBuildArtifacts@1
+    inputs:
+      PathtoPublish: '$(System.DefaultWorkingDirectory)'
+      name: 'drop'
