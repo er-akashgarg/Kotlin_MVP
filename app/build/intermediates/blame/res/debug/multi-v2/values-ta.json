@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/akashgarg/AndroidStudioProjects/KotlinMVP_Basic/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "D:\\StudioProjects\\Kotlin_MVP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
             "map": [
                 {
-                    "source": "/Users/akashgarg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a115ea1bcd9483f4191295bf66d7f665/res/values-ta/values-ta.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
-                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
-                        "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
-                    }
-                },
-                {
-                    "source": "/Users/akashgarg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/22ea36fff5fd25c5042907cc9e3bf498/res/values-ta/values-ta.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\96f8d452a1284c5f05b48e4ff3a97b75\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1957",
                         "endColumns": "100",
                         "endOffsets": "2053"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\6e81e2f3108c3e9b3496827d95739aaf\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
+                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
                     }
                 }
             ]

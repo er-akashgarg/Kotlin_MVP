@@ -4452,35 +4452,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.dinesh.app:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.dinesh.app:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.dinesh.app:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.dinesh.app:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dinesh.app:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.dinesh.app:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.dinesh.app:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.dinesh.app:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dinesh.app:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.dinesh.app:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.dinesh.app:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.dinesh.app:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.dinesh.app:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.dinesh.app:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dinesh.app:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dinesh.app:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.dinesh.app:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.dinesh.app:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dinesh.app:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.dinesh.app:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.dinesh.app:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.dinesh.app:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.dinesh.app:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.dinesh.app:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.dinesh.app:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.dinesh.app:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dinesh.app:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.dinesh.app:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.dinesh.app:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.akashgarg.app:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.akashgarg.app:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.akashgarg.app:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.akashgarg.app:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.akashgarg.app:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.akashgarg.app:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.akashgarg.app:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.akashgarg.app:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.akashgarg.app:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.akashgarg.app:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.akashgarg.app:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.akashgarg.app:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.akashgarg.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.akashgarg.app:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.akashgarg.app:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.akashgarg.app:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.akashgarg.app:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.akashgarg.app:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.akashgarg.app:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.akashgarg.app:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.akashgarg.app:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.akashgarg.app:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.akashgarg.app:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.akashgarg.app:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.akashgarg.app:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.akashgarg.app:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.akashgarg.app:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.akashgarg.app:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.akashgarg.app:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4523,7 +4523,7 @@ public final class R {
       0x7f030147
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4531,11 +4531,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:background
+     * @attr name com.akashgarg.app:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4546,11 +4546,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:backgroundSplit
+     * @attr name com.akashgarg.app:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4561,11 +4561,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:backgroundStacked
+     * @attr name com.akashgarg.app:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4574,11 +4574,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetEnd
+     * @attr name com.akashgarg.app:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4587,11 +4587,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetEndWithActions
+     * @attr name com.akashgarg.app:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4600,11 +4600,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetLeft
+     * @attr name com.akashgarg.app:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4613,11 +4613,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetRight
+     * @attr name com.akashgarg.app:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4626,11 +4626,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetStart
+     * @attr name com.akashgarg.app:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4639,11 +4639,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetStartWithNavigation
+     * @attr name com.akashgarg.app:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4651,11 +4651,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:customNavigationLayout
+     * @attr name com.akashgarg.app:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4673,11 +4673,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:displayOptions
+     * @attr name com.akashgarg.app:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4685,11 +4685,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:divider
+     * @attr name com.akashgarg.app:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4698,11 +4698,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:elevation
+     * @attr name com.akashgarg.app:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4711,21 +4711,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:height
+     * @attr name com.akashgarg.app:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:hideOnContentScroll
+     * @attr name com.akashgarg.app:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4733,11 +4733,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:homeAsUpIndicator
+     * @attr name com.akashgarg.app:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4745,11 +4745,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:homeLayout
+     * @attr name com.akashgarg.app:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4757,11 +4757,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:icon
+     * @attr name com.akashgarg.app:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4769,11 +4769,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:indeterminateProgressStyle
+     * @attr name com.akashgarg.app:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4782,11 +4782,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:itemPadding
+     * @attr name com.akashgarg.app:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4794,11 +4794,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:logo
+     * @attr name com.akashgarg.app:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4812,11 +4812,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:navigationMode
+     * @attr name com.akashgarg.app:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4824,11 +4824,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:popupTheme
+     * @attr name com.akashgarg.app:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4837,11 +4837,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:progressBarPadding
+     * @attr name com.akashgarg.app:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4849,21 +4849,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:progressBarStyle
+     * @attr name com.akashgarg.app:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:subtitle
+     * @attr name com.akashgarg.app:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4871,21 +4871,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:subtitleTextStyle
+     * @attr name com.akashgarg.app:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:title
+     * @attr name com.akashgarg.app:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4893,7 +4893,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:titleTextStyle
+     * @attr name com.akashgarg.app:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4975,12 +4975,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.dinesh.app:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.dinesh.app:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.dinesh.app:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.dinesh.app:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dinesh.app:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.dinesh.app:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.akashgarg.app:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.akashgarg.app:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.akashgarg.app:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.akashgarg.app:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.akashgarg.app:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.akashgarg.app:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4994,7 +4994,7 @@ public final class R {
       0x7f030111, 0x7f030147
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5002,11 +5002,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:background
+     * @attr name com.akashgarg.app:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5017,11 +5017,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:backgroundSplit
+     * @attr name com.akashgarg.app:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5029,11 +5029,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:closeItemLayout
+     * @attr name com.akashgarg.app:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5042,11 +5042,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:height
+     * @attr name com.akashgarg.app:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5054,11 +5054,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:subtitleTextStyle
+     * @attr name com.akashgarg.app:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5066,7 +5066,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:titleTextStyle
+     * @attr name com.akashgarg.app:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5076,8 +5076,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dinesh.app:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dinesh.app:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.akashgarg.app:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.akashgarg.app:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5086,7 +5086,7 @@ public final class R {
       0x7f030081, 0x7f0300ac
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5094,17 +5094,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:expandActivityOverflowButtonDrawable
+     * @attr name com.akashgarg.app:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:initialActivityCount
+     * @attr name com.akashgarg.app:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5115,13 +5115,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.dinesh.app:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dinesh.app:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.dinesh.app:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.dinesh.app:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dinesh.app:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.dinesh.app:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dinesh.app:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.akashgarg.app:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.akashgarg.app:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.akashgarg.app:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.akashgarg.app:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.akashgarg.app:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.akashgarg.app:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.akashgarg.app:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -5149,7 +5149,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5158,11 +5158,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:buttonIconDimen
+     * @attr name com.akashgarg.app:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5170,11 +5170,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonPanelSideLayout
+     * @attr name com.akashgarg.app:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5182,11 +5182,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:listItemLayout
+     * @attr name com.akashgarg.app:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5194,11 +5194,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:listLayout
+     * @attr name com.akashgarg.app:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5206,21 +5206,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:multiChoiceItemLayout
+     * @attr name com.akashgarg.app:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:showTitle
+     * @attr name com.akashgarg.app:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5228,7 +5228,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:singleChoiceItemLayout
+     * @attr name com.akashgarg.app:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -5241,8 +5241,8 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.dinesh.app:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.dinesh.app:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.akashgarg.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.akashgarg.app:expanded}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -5290,7 +5290,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_keyboardNavigationCluster=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5299,17 +5299,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:elevation
+     * @attr name com.akashgarg.app:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:expanded
+     * @attr name com.akashgarg.app:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -5319,8 +5319,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.dinesh.app:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.dinesh.app:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.akashgarg.app:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.akashgarg.app:state_collapsible}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -5329,23 +5329,23 @@ public final class R {
       0x7f030108, 0x7f030109
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:state_collapsed
+     * @attr name com.akashgarg.app:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:state_collapsible
+     * @attr name com.akashgarg.app:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
@@ -5355,8 +5355,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.dinesh.app:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.dinesh.app:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.akashgarg.app:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.akashgarg.app:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -5365,7 +5365,7 @@ public final class R {
       0x7f0300bf, 0x7f0300c0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5381,11 +5381,11 @@ public final class R {
      * <tr><td>snap</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:layout_scrollFlags
+     * @attr name com.akashgarg.app:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5393,7 +5393,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:layout_scrollInterpolator
+     * @attr name com.akashgarg.app:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -5404,9 +5404,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.dinesh.app:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.dinesh.app:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.dinesh.app:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.akashgarg.app:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.akashgarg.app:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.akashgarg.app:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5432,7 +5432,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5440,22 +5440,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:srcCompat
+     * @attr name com.akashgarg.app:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:tint
+     * @attr name com.akashgarg.app:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5472,7 +5472,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:tintMode
+     * @attr name com.akashgarg.app:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5483,9 +5483,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dinesh.app:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dinesh.app:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dinesh.app:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.akashgarg.app:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.akashgarg.app:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.akashgarg.app:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5508,7 +5508,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5516,22 +5516,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:tickMark
+     * @attr name com.akashgarg.app:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:tickMarkTint
+     * @attr name com.akashgarg.app:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5548,7 +5548,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:tickMarkTintMode
+     * @attr name com.akashgarg.app:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5688,13 +5688,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.dinesh.app:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.dinesh.app:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.dinesh.app:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.dinesh.app:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.dinesh.app:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.dinesh.app:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dinesh.app:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.akashgarg.app:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.akashgarg.app:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.akashgarg.app:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.akashgarg.app:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.akashgarg.app:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.akashgarg.app:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.akashgarg.app:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5722,7 +5722,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5731,11 +5731,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:autoSizeMaxTextSize
+     * @attr name com.akashgarg.app:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5744,11 +5744,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:autoSizeMinTextSize
+     * @attr name com.akashgarg.app:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5756,11 +5756,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:autoSizePresetSizes
+     * @attr name com.akashgarg.app:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5769,11 +5769,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:autoSizeStepGranularity
+     * @attr name com.akashgarg.app:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5786,21 +5786,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:autoSizeTextType
+     * @attr name com.akashgarg.app:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:fontFamily
+     * @attr name com.akashgarg.app:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5810,7 +5810,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:textAllCaps
+     * @attr name com.akashgarg.app:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -5822,124 +5822,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dinesh.app:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dinesh.app:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dinesh.app:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dinesh.app:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dinesh.app:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dinesh.app:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dinesh.app:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dinesh.app:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dinesh.app:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dinesh.app:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dinesh.app:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dinesh.app:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dinesh.app:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dinesh.app:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dinesh.app:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dinesh.app:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dinesh.app:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dinesh.app:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dinesh.app:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dinesh.app:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dinesh.app:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dinesh.app:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dinesh.app:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dinesh.app:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dinesh.app:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dinesh.app:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dinesh.app:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dinesh.app:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dinesh.app:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dinesh.app:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dinesh.app:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dinesh.app:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dinesh.app:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dinesh.app:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dinesh.app:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dinesh.app:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dinesh.app:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dinesh.app:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dinesh.app:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dinesh.app:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dinesh.app:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dinesh.app:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dinesh.app:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dinesh.app:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dinesh.app:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dinesh.app:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.dinesh.app:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dinesh.app:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dinesh.app:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dinesh.app:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dinesh.app:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dinesh.app:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.dinesh.app:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dinesh.app:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dinesh.app:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dinesh.app:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.dinesh.app:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dinesh.app:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dinesh.app:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dinesh.app:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dinesh.app:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dinesh.app:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dinesh.app:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dinesh.app:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.dinesh.app:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dinesh.app:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dinesh.app:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dinesh.app:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dinesh.app:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dinesh.app:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dinesh.app:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dinesh.app:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dinesh.app:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dinesh.app:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dinesh.app:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dinesh.app:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dinesh.app:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.dinesh.app:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dinesh.app:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dinesh.app:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dinesh.app:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dinesh.app:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dinesh.app:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dinesh.app:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dinesh.app:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dinesh.app:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dinesh.app:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dinesh.app:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dinesh.app:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dinesh.app:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dinesh.app:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dinesh.app:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.dinesh.app:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dinesh.app:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dinesh.app:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.dinesh.app:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dinesh.app:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dinesh.app:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dinesh.app:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dinesh.app:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dinesh.app:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dinesh.app:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dinesh.app:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dinesh.app:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dinesh.app:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.dinesh.app:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.dinesh.app:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.dinesh.app:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dinesh.app:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dinesh.app:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dinesh.app:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dinesh.app:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dinesh.app:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dinesh.app:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dinesh.app:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dinesh.app:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dinesh.app:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dinesh.app:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.akashgarg.app:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.akashgarg.app:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.akashgarg.app:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.akashgarg.app:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.akashgarg.app:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.akashgarg.app:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.akashgarg.app:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.akashgarg.app:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.akashgarg.app:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.akashgarg.app:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.akashgarg.app:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.akashgarg.app:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.akashgarg.app:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.akashgarg.app:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.akashgarg.app:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.akashgarg.app:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.akashgarg.app:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.akashgarg.app:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.akashgarg.app:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.akashgarg.app:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.akashgarg.app:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.akashgarg.app:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.akashgarg.app:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.akashgarg.app:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.akashgarg.app:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.akashgarg.app:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.akashgarg.app:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.akashgarg.app:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.akashgarg.app:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.akashgarg.app:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.akashgarg.app:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.akashgarg.app:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.akashgarg.app:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.akashgarg.app:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.akashgarg.app:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.akashgarg.app:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.akashgarg.app:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.akashgarg.app:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.akashgarg.app:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.akashgarg.app:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.akashgarg.app:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.akashgarg.app:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.akashgarg.app:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.akashgarg.app:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.akashgarg.app:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.akashgarg.app:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.akashgarg.app:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.akashgarg.app:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.akashgarg.app:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.akashgarg.app:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.akashgarg.app:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.akashgarg.app:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.akashgarg.app:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.akashgarg.app:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.akashgarg.app:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.akashgarg.app:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.akashgarg.app:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.akashgarg.app:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.akashgarg.app:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.akashgarg.app:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.akashgarg.app:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.akashgarg.app:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.akashgarg.app:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.akashgarg.app:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.akashgarg.app:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.akashgarg.app:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.akashgarg.app:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.akashgarg.app:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.akashgarg.app:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.akashgarg.app:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.akashgarg.app:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.akashgarg.app:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.akashgarg.app:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.akashgarg.app:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.akashgarg.app:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.akashgarg.app:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.akashgarg.app:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.akashgarg.app:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.akashgarg.app:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.akashgarg.app:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.akashgarg.app:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.akashgarg.app:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.akashgarg.app:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.akashgarg.app:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.akashgarg.app:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.akashgarg.app:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.akashgarg.app:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.akashgarg.app:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.akashgarg.app:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.akashgarg.app:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.akashgarg.app:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.akashgarg.app:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.akashgarg.app:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.akashgarg.app:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.akashgarg.app:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.akashgarg.app:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.akashgarg.app:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.akashgarg.app:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.akashgarg.app:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.akashgarg.app:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.akashgarg.app:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.akashgarg.app:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.akashgarg.app:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.akashgarg.app:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.akashgarg.app:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.akashgarg.app:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.akashgarg.app:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.akashgarg.app:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.akashgarg.app:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.akashgarg.app:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.akashgarg.app:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.akashgarg.app:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.akashgarg.app:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.akashgarg.app:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.akashgarg.app:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.akashgarg.app:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.akashgarg.app:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.akashgarg.app:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6117,7 +6117,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6125,11 +6125,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarDivider
+     * @attr name com.akashgarg.app:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6137,11 +6137,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarItemBackground
+     * @attr name com.akashgarg.app:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6149,11 +6149,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarPopupTheme
+     * @attr name com.akashgarg.app:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6170,11 +6170,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:actionBarSize
+     * @attr name com.akashgarg.app:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6182,11 +6182,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarSplitStyle
+     * @attr name com.akashgarg.app:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6194,11 +6194,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarStyle
+     * @attr name com.akashgarg.app:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6206,11 +6206,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarTabBarStyle
+     * @attr name com.akashgarg.app:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6218,11 +6218,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarTabStyle
+     * @attr name com.akashgarg.app:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6230,11 +6230,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarTabTextStyle
+     * @attr name com.akashgarg.app:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6242,11 +6242,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarTheme
+     * @attr name com.akashgarg.app:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6254,11 +6254,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionBarWidgetTheme
+     * @attr name com.akashgarg.app:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6266,11 +6266,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionButtonStyle
+     * @attr name com.akashgarg.app:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6278,11 +6278,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionDropDownStyle
+     * @attr name com.akashgarg.app:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6290,11 +6290,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionMenuTextAppearance
+     * @attr name com.akashgarg.app:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6305,11 +6305,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:actionMenuTextColor
+     * @attr name com.akashgarg.app:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6317,11 +6317,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeBackground
+     * @attr name com.akashgarg.app:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6329,11 +6329,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeCloseButtonStyle
+     * @attr name com.akashgarg.app:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6341,11 +6341,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeCloseDrawable
+     * @attr name com.akashgarg.app:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6353,11 +6353,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeCopyDrawable
+     * @attr name com.akashgarg.app:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6365,11 +6365,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeCutDrawable
+     * @attr name com.akashgarg.app:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6377,11 +6377,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeFindDrawable
+     * @attr name com.akashgarg.app:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6389,11 +6389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModePasteDrawable
+     * @attr name com.akashgarg.app:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6401,11 +6401,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModePopupWindowStyle
+     * @attr name com.akashgarg.app:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6413,11 +6413,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeSelectAllDrawable
+     * @attr name com.akashgarg.app:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6425,11 +6425,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeShareDrawable
+     * @attr name com.akashgarg.app:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6437,11 +6437,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeSplitBackground
+     * @attr name com.akashgarg.app:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6449,11 +6449,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeStyle
+     * @attr name com.akashgarg.app:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6461,11 +6461,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionModeWebSearchDrawable
+     * @attr name com.akashgarg.app:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6473,11 +6473,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionOverflowButtonStyle
+     * @attr name com.akashgarg.app:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6485,11 +6485,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionOverflowMenuStyle
+     * @attr name com.akashgarg.app:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6497,11 +6497,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:activityChooserViewStyle
+     * @attr name com.akashgarg.app:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6509,21 +6509,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:alertDialogButtonGroupStyle
+     * @attr name com.akashgarg.app:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:alertDialogCenterButtons
+     * @attr name com.akashgarg.app:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6531,11 +6531,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:alertDialogStyle
+     * @attr name com.akashgarg.app:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6543,11 +6543,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:alertDialogTheme
+     * @attr name com.akashgarg.app:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6555,11 +6555,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:autoCompleteTextViewStyle
+     * @attr name com.akashgarg.app:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6567,11 +6567,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:borderlessButtonStyle
+     * @attr name com.akashgarg.app:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6579,11 +6579,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonBarButtonStyle
+     * @attr name com.akashgarg.app:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6591,11 +6591,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonBarNegativeButtonStyle
+     * @attr name com.akashgarg.app:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6603,11 +6603,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonBarNeutralButtonStyle
+     * @attr name com.akashgarg.app:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6615,11 +6615,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonBarPositiveButtonStyle
+     * @attr name com.akashgarg.app:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6627,11 +6627,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonBarStyle
+     * @attr name com.akashgarg.app:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6639,11 +6639,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonStyle
+     * @attr name com.akashgarg.app:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6651,11 +6651,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:buttonStyleSmall
+     * @attr name com.akashgarg.app:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6663,11 +6663,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:checkboxStyle
+     * @attr name com.akashgarg.app:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6675,77 +6675,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:checkedTextViewStyle
+     * @attr name com.akashgarg.app:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorAccent
+     * @attr name com.akashgarg.app:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorBackgroundFloating
+     * @attr name com.akashgarg.app:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorButtonNormal
+     * @attr name com.akashgarg.app:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorControlActivated
+     * @attr name com.akashgarg.app:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorControlHighlight
+     * @attr name com.akashgarg.app:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorControlNormal
+     * @attr name com.akashgarg.app:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6756,44 +6756,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorError
+     * @attr name com.akashgarg.app:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorPrimary
+     * @attr name com.akashgarg.app:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorPrimaryDark
+     * @attr name com.akashgarg.app:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:colorSwitchThumbNormal
+     * @attr name com.akashgarg.app:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6801,11 +6801,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:controlBackground
+     * @attr name com.akashgarg.app:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6814,11 +6814,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:dialogPreferredPadding
+     * @attr name com.akashgarg.app:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6826,11 +6826,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:dialogTheme
+     * @attr name com.akashgarg.app:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6838,11 +6838,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:dividerHorizontal
+     * @attr name com.akashgarg.app:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6850,11 +6850,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:dividerVertical
+     * @attr name com.akashgarg.app:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6862,11 +6862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:dropDownListViewStyle
+     * @attr name com.akashgarg.app:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6875,11 +6875,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:dropdownListPreferredItemHeight
+     * @attr name com.akashgarg.app:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6887,11 +6887,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:editTextBackground
+     * @attr name com.akashgarg.app:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6902,11 +6902,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:editTextColor
+     * @attr name com.akashgarg.app:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6914,11 +6914,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:editTextStyle
+     * @attr name com.akashgarg.app:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6926,11 +6926,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:homeAsUpIndicator
+     * @attr name com.akashgarg.app:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6938,11 +6938,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:imageButtonStyle
+     * @attr name com.akashgarg.app:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6950,11 +6950,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:listChoiceBackgroundIndicator
+     * @attr name com.akashgarg.app:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6962,11 +6962,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:listDividerAlertDialog
+     * @attr name com.akashgarg.app:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6974,11 +6974,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:listMenuViewStyle
+     * @attr name com.akashgarg.app:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6986,11 +6986,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:listPopupWindowStyle
+     * @attr name com.akashgarg.app:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6999,11 +6999,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:listPreferredItemHeight
+     * @attr name com.akashgarg.app:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7012,11 +7012,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:listPreferredItemHeightLarge
+     * @attr name com.akashgarg.app:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7025,11 +7025,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:listPreferredItemHeightSmall
+     * @attr name com.akashgarg.app:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7038,11 +7038,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:listPreferredItemPaddingLeft
+     * @attr name com.akashgarg.app:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7051,11 +7051,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:listPreferredItemPaddingRight
+     * @attr name com.akashgarg.app:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7063,11 +7063,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:panelBackground
+     * @attr name com.akashgarg.app:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7075,11 +7075,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:panelMenuListTheme
+     * @attr name com.akashgarg.app:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7088,11 +7088,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:panelMenuListWidth
+     * @attr name com.akashgarg.app:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7100,11 +7100,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:popupMenuStyle
+     * @attr name com.akashgarg.app:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7112,11 +7112,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:popupWindowStyle
+     * @attr name com.akashgarg.app:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7124,11 +7124,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:radioButtonStyle
+     * @attr name com.akashgarg.app:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7136,11 +7136,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:ratingBarStyle
+     * @attr name com.akashgarg.app:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7148,11 +7148,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:ratingBarStyleIndicator
+     * @attr name com.akashgarg.app:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7160,11 +7160,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:ratingBarStyleSmall
+     * @attr name com.akashgarg.app:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7172,11 +7172,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:searchViewStyle
+     * @attr name com.akashgarg.app:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7184,11 +7184,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:seekBarStyle
+     * @attr name com.akashgarg.app:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7196,11 +7196,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:selectableItemBackground
+     * @attr name com.akashgarg.app:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7208,11 +7208,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:selectableItemBackgroundBorderless
+     * @attr name com.akashgarg.app:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7220,11 +7220,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:spinnerDropDownItemStyle
+     * @attr name com.akashgarg.app:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7232,11 +7232,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:spinnerStyle
+     * @attr name com.akashgarg.app:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7244,11 +7244,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:switchStyle
+     * @attr name com.akashgarg.app:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7256,11 +7256,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceLargePopupMenu
+     * @attr name com.akashgarg.app:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7268,11 +7268,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceListItem
+     * @attr name com.akashgarg.app:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7280,11 +7280,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceListItemSecondary
+     * @attr name com.akashgarg.app:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7292,11 +7292,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceListItemSmall
+     * @attr name com.akashgarg.app:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7304,11 +7304,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearancePopupMenuHeader
+     * @attr name com.akashgarg.app:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7316,11 +7316,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceSearchResultSubtitle
+     * @attr name com.akashgarg.app:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7328,11 +7328,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceSearchResultTitle
+     * @attr name com.akashgarg.app:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7340,11 +7340,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:textAppearanceSmallPopupMenu
+     * @attr name com.akashgarg.app:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7355,11 +7355,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:textColorAlertDialogListItem
+     * @attr name com.akashgarg.app:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7370,11 +7370,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:textColorSearchUrl
+     * @attr name com.akashgarg.app:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7382,11 +7382,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:toolbarNavigationButtonStyle
+     * @attr name com.akashgarg.app:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7394,11 +7394,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:toolbarStyle
+     * @attr name com.akashgarg.app:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7409,11 +7409,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:tooltipForegroundColor
+     * @attr name com.akashgarg.app:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7421,51 +7421,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:tooltipFrameBackground
+     * @attr name com.akashgarg.app:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:viewInflaterClass
+     * @attr name com.akashgarg.app:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:windowActionBar
+     * @attr name com.akashgarg.app:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:windowActionBarOverlay
+     * @attr name com.akashgarg.app:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:windowActionModeOverlay
+     * @attr name com.akashgarg.app:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7478,11 +7478,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.dinesh.app:windowFixedHeightMajor
+     * @attr name com.akashgarg.app:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7495,11 +7495,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.dinesh.app:windowFixedHeightMinor
+     * @attr name com.akashgarg.app:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7512,11 +7512,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.dinesh.app:windowFixedWidthMajor
+     * @attr name com.akashgarg.app:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7529,11 +7529,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.dinesh.app:windowFixedWidthMinor
+     * @attr name com.akashgarg.app:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7546,11 +7546,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.dinesh.app:windowMinWidthMajor
+     * @attr name com.akashgarg.app:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7563,17 +7563,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.dinesh.app:windowMinWidthMinor
+     * @attr name com.akashgarg.app:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:windowNoTitle
+     * @attr name com.akashgarg.app:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -7583,11 +7583,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.dinesh.app:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.dinesh.app:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.dinesh.app:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.dinesh.app:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.dinesh.app:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.akashgarg.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.akashgarg.app:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.akashgarg.app:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.akashgarg.app:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.akashgarg.app:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -7600,7 +7600,7 @@ public final class R {
       0x7f0300d1
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7609,11 +7609,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:elevation
+     * @attr name com.akashgarg.app:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7621,33 +7621,33 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:itemBackground
+     * @attr name com.akashgarg.app:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:itemIconTint
+     * @attr name com.akashgarg.app:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:itemTextColor
+     * @attr name com.akashgarg.app:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7655,7 +7655,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:menu
+     * @attr name com.akashgarg.app:menu
      */
     public static final int BottomNavigationView_menu=4;
     /**
@@ -7665,9 +7665,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.dinesh.app:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.dinesh.app:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.dinesh.app:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.akashgarg.app:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.akashgarg.app:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.akashgarg.app:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_hideable
      * @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -7677,17 +7677,17 @@ public final class R {
       0x7f030038, 0x7f03003a, 0x7f03003b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:behavior_hideable
+     * @attr name com.akashgarg.app:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7704,17 +7704,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:behavior_peekHeight
+     * @attr name com.akashgarg.app:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:behavior_skipCollapsed
+     * @attr name com.akashgarg.app:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=2;
     /**
@@ -7724,7 +7724,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dinesh.app:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.akashgarg.app:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7732,13 +7732,13 @@ public final class R {
       0x7f030026
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:allowStacking
+     * @attr name com.akashgarg.app:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7748,22 +7748,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.dinesh.app:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.dinesh.app:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.dinesh.app:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.dinesh.app:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.dinesh.app:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.dinesh.app:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.dinesh.app:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.dinesh.app:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.dinesh.app:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.dinesh.app:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.dinesh.app:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.dinesh.app:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.dinesh.app:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.dinesh.app:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.dinesh.app:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.dinesh.app:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.akashgarg.app:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.akashgarg.app:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.akashgarg.app:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.akashgarg.app:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.akashgarg.app:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.akashgarg.app:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.akashgarg.app:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.akashgarg.app:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.akashgarg.app:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.akashgarg.app:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.akashgarg.app:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.akashgarg.app:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.akashgarg.app:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.akashgarg.app:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.akashgarg.app:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.akashgarg.app:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7789,7 +7789,7 @@ public final class R {
       0x7f03010b, 0x7f03013d, 0x7f03013e, 0x7f030148
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7810,11 +7810,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:collapsedTitleGravity
+     * @attr name com.akashgarg.app:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7822,22 +7822,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:collapsedTitleTextAppearance
+     * @attr name com.akashgarg.app:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:contentScrim
+     * @attr name com.akashgarg.app:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7858,11 +7858,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:expandedTitleGravity
+     * @attr name com.akashgarg.app:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7871,11 +7871,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:expandedTitleMargin
+     * @attr name com.akashgarg.app:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7884,11 +7884,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:expandedTitleMarginBottom
+     * @attr name com.akashgarg.app:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7897,11 +7897,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:expandedTitleMarginEnd
+     * @attr name com.akashgarg.app:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7910,11 +7910,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:expandedTitleMarginStart
+     * @attr name com.akashgarg.app:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7923,11 +7923,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:expandedTitleMarginTop
+     * @attr name com.akashgarg.app:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7935,20 +7935,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:expandedTitleTextAppearance
+     * @attr name com.akashgarg.app:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.dinesh.app:scrimAnimationDuration
+     * @attr name com.akashgarg.app:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7957,42 +7957,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:scrimVisibleHeightTrigger
+     * @attr name com.akashgarg.app:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:statusBarScrim
+     * @attr name com.akashgarg.app:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:title
+     * @attr name com.akashgarg.app:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:titleEnabled
+     * @attr name com.akashgarg.app:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8000,7 +8000,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:toolbarId
+     * @attr name com.akashgarg.app:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -8010,8 +8010,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.dinesh.app:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.dinesh.app:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.akashgarg.app:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.akashgarg.app:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -8020,7 +8020,7 @@ public final class R {
       0x7f0300ba, 0x7f0300bb
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8034,16 +8034,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:layout_collapseMode
+     * @attr name com.akashgarg.app:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.dinesh.app:layout_collapseParallaxMultiplier
+     * @attr name com.akashgarg.app:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -8055,7 +8055,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.dinesh.app:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.akashgarg.app:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -8085,12 +8085,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.dinesh.app:alpha
+     * @attr name com.akashgarg.app:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -8101,8 +8101,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.dinesh.app:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.dinesh.app:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.akashgarg.app:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.akashgarg.app:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -8124,18 +8124,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:buttonTint
+     * @attr name com.akashgarg.app:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8152,7 +8152,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:buttonTintMode
+     * @attr name com.akashgarg.app:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8162,8 +8162,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.dinesh.app:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.dinesh.app:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.akashgarg.app:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.akashgarg.app:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -8172,7 +8172,7 @@ public final class R {
       0x7f0300b4, 0x7f03010a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8180,11 +8180,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:keylines
+     * @attr name com.akashgarg.app:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8195,7 +8195,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:statusBarBackground
+     * @attr name com.akashgarg.app:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -8206,12 +8206,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.dinesh.app:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.dinesh.app:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.dinesh.app:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.dinesh.app:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.dinesh.app:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.dinesh.app:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.akashgarg.app:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.akashgarg.app:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.akashgarg.app:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.akashgarg.app:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.akashgarg.app:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.akashgarg.app:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -8255,7 +8255,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8263,11 +8263,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:layout_anchor
+     * @attr name com.akashgarg.app:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8292,21 +8292,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:layout_anchorGravity
+     * @attr name com.akashgarg.app:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:layout_behavior
+     * @attr name com.akashgarg.app:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8325,11 +8325,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:layout_dodgeInsetEdges
+     * @attr name com.akashgarg.app:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8347,16 +8347,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:layout_insetEdge
+     * @attr name com.akashgarg.app:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.dinesh.app:layout_keyline
+     * @attr name com.akashgarg.app:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -8366,9 +8366,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.dinesh.app:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.dinesh.app:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_textColorError com.dinesh.app:textColorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.akashgarg.app:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.akashgarg.app:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_textColorError com.akashgarg.app:textColorError}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -8378,7 +8378,7 @@ public final class R {
       0x7f03003e, 0x7f03003f, 0x7f030131
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8386,11 +8386,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:bottomSheetDialogTheme
+     * @attr name com.akashgarg.app:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8398,11 +8398,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:bottomSheetStyle
+     * @attr name com.akashgarg.app:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8413,7 +8413,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:textColorError
+     * @attr name com.akashgarg.app:textColorError
      */
     public static final int DesignTheme_textColorError=2;
     /**
@@ -8423,14 +8423,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dinesh.app:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dinesh.app:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.dinesh.app:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.dinesh.app:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dinesh.app:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dinesh.app:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dinesh.app:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.dinesh.app:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.akashgarg.app:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.akashgarg.app:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.akashgarg.app:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.akashgarg.app:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.akashgarg.app:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.akashgarg.app:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.akashgarg.app:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.akashgarg.app:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -8446,7 +8446,7 @@ public final class R {
       0x7f030077, 0x7f03009c, 0x7f030101, 0x7f030134
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8455,11 +8455,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:arrowHeadLength
+     * @attr name com.akashgarg.app:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8468,11 +8468,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:arrowShaftLength
+     * @attr name com.akashgarg.app:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8481,22 +8481,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:barLength
+     * @attr name com.akashgarg.app:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:color
+     * @attr name com.akashgarg.app:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8505,11 +8505,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:drawableSize
+     * @attr name com.akashgarg.app:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8518,21 +8518,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:gapBetweenBars
+     * @attr name com.akashgarg.app:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:spinBars
+     * @attr name com.akashgarg.app:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8541,7 +8541,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:thickness
+     * @attr name com.akashgarg.app:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -8551,15 +8551,15 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.dinesh.app:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.dinesh.app:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.dinesh.app:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.dinesh.app:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.dinesh.app:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.dinesh.app:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.dinesh.app:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.dinesh.app:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.dinesh.app:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.akashgarg.app:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.akashgarg.app:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.akashgarg.app:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.akashgarg.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.akashgarg.app:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.akashgarg.app:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.akashgarg.app:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.akashgarg.app:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.akashgarg.app:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -8577,18 +8577,18 @@ public final class R {
       0x7f030151
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:backgroundTint
+     * @attr name com.akashgarg.app:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8605,11 +8605,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:backgroundTintMode
+     * @attr name com.akashgarg.app:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8618,11 +8618,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:borderWidth
+     * @attr name com.akashgarg.app:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8631,11 +8631,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:elevation
+     * @attr name com.akashgarg.app:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8644,11 +8644,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:fabCustomSize
+     * @attr name com.akashgarg.app:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8662,11 +8662,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:fabSize
+     * @attr name com.akashgarg.app:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8675,28 +8675,28 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:pressedTranslationZ
+     * @attr name com.akashgarg.app:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:rippleColor
+     * @attr name com.akashgarg.app:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:useCompatPadding
+     * @attr name com.akashgarg.app:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=8;
     /**
@@ -8706,7 +8706,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.dinesh.app:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.akashgarg.app:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -8714,13 +8714,13 @@ public final class R {
       0x7f030037
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:behavior_autoHide
+     * @attr name com.akashgarg.app:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -8730,12 +8730,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.dinesh.app:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.dinesh.app:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.dinesh.app:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.dinesh.app:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.dinesh.app:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.dinesh.app:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.akashgarg.app:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.akashgarg.app:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.akashgarg.app:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.akashgarg.app:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.akashgarg.app:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.akashgarg.app:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -8749,17 +8749,17 @@ public final class R {
       0x7f030097, 0x7f030098
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:fontProviderAuthority
+     * @attr name com.akashgarg.app:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8767,11 +8767,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:fontProviderCerts
+     * @attr name com.akashgarg.app:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8784,11 +8784,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:fontProviderFetchStrategy
+     * @attr name com.akashgarg.app:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -8801,27 +8801,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:fontProviderFetchTimeout
+     * @attr name com.akashgarg.app:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:fontProviderPackage
+     * @attr name com.akashgarg.app:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:fontProviderQuery
+     * @attr name com.akashgarg.app:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -8834,9 +8834,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.dinesh.app:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.dinesh.app:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.dinesh.app:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.akashgarg.app:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.akashgarg.app:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.akashgarg.app:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -8888,7 +8888,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8896,11 +8896,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:font
+     * @attr name com.akashgarg.app:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8913,16 +8913,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:fontStyle
+     * @attr name com.akashgarg.app:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.dinesh.app:fontWeight
+     * @attr name com.akashgarg.app:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -8934,7 +8934,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.dinesh.app:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.akashgarg.app:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8986,13 +8986,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:foregroundInsidePadding
+     * @attr name com.akashgarg.app:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -9007,10 +9007,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.dinesh.app:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dinesh.app:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dinesh.app:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dinesh.app:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.akashgarg.app:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.akashgarg.app:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.akashgarg.app:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.akashgarg.app:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -9102,7 +9102,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9110,11 +9110,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:divider
+     * @attr name com.akashgarg.app:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9123,21 +9123,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:dividerPadding
+     * @attr name com.akashgarg.app:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:measureWithLargestChild
+     * @attr name com.akashgarg.app:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9152,7 +9152,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:showDividers
+     * @attr name com.akashgarg.app:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -9424,16 +9424,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.dinesh.app:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.dinesh.app:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.dinesh.app:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.dinesh.app:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.dinesh.app:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.dinesh.app:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.dinesh.app:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.dinesh.app:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.dinesh.app:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.dinesh.app:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.akashgarg.app:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.akashgarg.app:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.akashgarg.app:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.akashgarg.app:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.akashgarg.app:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.akashgarg.app:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.akashgarg.app:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.akashgarg.app:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.akashgarg.app:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.akashgarg.app:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -9610,7 +9610,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9618,31 +9618,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:actionLayout
+     * @attr name com.akashgarg.app:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:actionProviderClass
+     * @attr name com.akashgarg.app:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:actionViewClass
+     * @attr name com.akashgarg.app:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9659,32 +9659,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:alphabeticModifiers
+     * @attr name com.akashgarg.app:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:contentDescription
+     * @attr name com.akashgarg.app:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:iconTint
+     * @attr name com.akashgarg.app:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9701,11 +9701,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:iconTintMode
+     * @attr name com.akashgarg.app:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9722,11 +9722,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:numericModifiers
+     * @attr name com.akashgarg.app:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9742,17 +9742,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:showAsAction
+     * @attr name com.akashgarg.app:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:tooltipText
+     * @attr name com.akashgarg.app:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -9769,8 +9769,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.dinesh.app:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.dinesh.app:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.akashgarg.app:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.akashgarg.app:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -9875,17 +9875,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:preserveIconSpacing
+     * @attr name com.akashgarg.app:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9893,7 +9893,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:subMenuArrow
+     * @attr name com.akashgarg.app:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -9906,13 +9906,13 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.dinesh.app:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.dinesh.app:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.dinesh.app:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.dinesh.app:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.dinesh.app:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.dinesh.app:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.dinesh.app:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.akashgarg.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.akashgarg.app:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.akashgarg.app:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.akashgarg.app:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.akashgarg.app:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.akashgarg.app:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.akashgarg.app:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -9969,7 +9969,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9978,11 +9978,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:elevation
+     * @attr name com.akashgarg.app:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9990,11 +9990,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:headerLayout
+     * @attr name com.akashgarg.app:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10002,22 +10002,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:itemBackground
+     * @attr name com.akashgarg.app:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:itemIconTint
+     * @attr name com.akashgarg.app:itemIconTint
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10025,22 +10025,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:itemTextAppearance
+     * @attr name com.akashgarg.app:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:itemTextColor
+     * @attr name com.akashgarg.app:itemTextColor
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10048,7 +10048,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:menu
+     * @attr name com.akashgarg.app:menu
      */
     public static final int NavigationView_menu=9;
     /**
@@ -10060,7 +10060,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.dinesh.app:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.akashgarg.app:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -10097,13 +10097,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:overlapAnchor
+     * @attr name com.akashgarg.app:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -10113,7 +10113,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dinesh.app:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.akashgarg.app:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -10121,13 +10121,13 @@ public final class R {
       0x7f030107
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:state_above_anchor
+     * @attr name com.akashgarg.app:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -10137,8 +10137,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dinesh.app:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dinesh.app:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.akashgarg.app:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.akashgarg.app:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -10147,7 +10147,7 @@ public final class R {
       0x7f0300d8, 0x7f0300db
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10156,11 +10156,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:paddingBottomNoButtons
+     * @attr name com.akashgarg.app:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10169,7 +10169,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:paddingTopNoTitle
+     * @attr name com.akashgarg.app:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -10181,15 +10181,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.dinesh.app:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.dinesh.app:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.dinesh.app:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.dinesh.app:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.dinesh.app:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.dinesh.app:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.dinesh.app:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.dinesh.app:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.dinesh.app:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.akashgarg.app:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.akashgarg.app:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.akashgarg.app:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.akashgarg.app:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.akashgarg.app:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.akashgarg.app:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.akashgarg.app:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.akashgarg.app:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.akashgarg.app:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -10244,17 +10244,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:fastScrollEnabled
+     * @attr name com.akashgarg.app:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10262,11 +10262,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:fastScrollHorizontalThumbDrawable
+     * @attr name com.akashgarg.app:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10274,11 +10274,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:fastScrollHorizontalTrackDrawable
+     * @attr name com.akashgarg.app:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10286,11 +10286,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:fastScrollVerticalThumbDrawable
+     * @attr name com.akashgarg.app:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10298,46 +10298,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:fastScrollVerticalTrackDrawable
+     * @attr name com.akashgarg.app:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:layoutManager
+     * @attr name com.akashgarg.app:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:reverseLayout
+     * @attr name com.akashgarg.app:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.dinesh.app:spanCount
+     * @attr name com.akashgarg.app:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:stackFromEnd
+     * @attr name com.akashgarg.app:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -10347,7 +10347,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.dinesh.app:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.akashgarg.app:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -10355,7 +10355,7 @@ public final class R {
       0x7f0300ad
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10366,7 +10366,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:insetForeground
+     * @attr name com.akashgarg.app:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -10376,7 +10376,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.dinesh.app:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.akashgarg.app:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -10384,7 +10384,7 @@ public final class R {
       0x7f030039
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10393,7 +10393,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:behavior_overlapTop
+     * @attr name com.akashgarg.app:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -10407,19 +10407,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.dinesh.app:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.dinesh.app:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.dinesh.app:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.dinesh.app:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.dinesh.app:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.dinesh.app:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.dinesh.app:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.dinesh.app:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.dinesh.app:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.dinesh.app:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.dinesh.app:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.dinesh.app:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.dinesh.app:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.akashgarg.app:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.akashgarg.app:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.akashgarg.app:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.akashgarg.app:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.akashgarg.app:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.akashgarg.app:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.akashgarg.app:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.akashgarg.app:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.akashgarg.app:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.akashgarg.app:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.akashgarg.app:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.akashgarg.app:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.akashgarg.app:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -10557,7 +10557,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10565,11 +10565,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:closeIcon
+     * @attr name com.akashgarg.app:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10577,21 +10577,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:commitIcon
+     * @attr name com.akashgarg.app:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:defaultQueryHint
+     * @attr name com.akashgarg.app:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10599,21 +10599,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:goIcon
+     * @attr name com.akashgarg.app:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:iconifiedByDefault
+     * @attr name com.akashgarg.app:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10621,11 +10621,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:layout
+     * @attr name com.akashgarg.app:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10633,21 +10633,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:queryBackground
+     * @attr name com.akashgarg.app:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:queryHint
+     * @attr name com.akashgarg.app:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10655,11 +10655,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:searchHintIcon
+     * @attr name com.akashgarg.app:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10667,11 +10667,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:searchIcon
+     * @attr name com.akashgarg.app:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10679,11 +10679,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:submitBackground
+     * @attr name com.akashgarg.app:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10691,11 +10691,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:suggestionRowLayout
+     * @attr name com.akashgarg.app:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10703,7 +10703,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:voiceIcon
+     * @attr name com.akashgarg.app:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -10714,8 +10714,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.dinesh.app:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.dinesh.app:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.akashgarg.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.akashgarg.app:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -10738,7 +10738,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10747,11 +10747,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:elevation
+     * @attr name com.akashgarg.app:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10760,7 +10760,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:maxActionInlineWidth
+     * @attr name com.akashgarg.app:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -10774,7 +10774,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.dinesh.app:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.akashgarg.app:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -10849,7 +10849,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10857,7 +10857,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:popupTheme
+     * @attr name com.akashgarg.app:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -10870,17 +10870,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.dinesh.app:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.dinesh.app:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dinesh.app:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.dinesh.app:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dinesh.app:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dinesh.app:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.dinesh.app:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dinesh.app:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.dinesh.app:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.dinesh.app:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.dinesh.app:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.akashgarg.app:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.akashgarg.app:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.akashgarg.app:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.akashgarg.app:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.akashgarg.app:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.akashgarg.app:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.akashgarg.app:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.akashgarg.app:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.akashgarg.app:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.akashgarg.app:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.akashgarg.app:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -10936,27 +10936,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:showText
+     * @attr name com.akashgarg.app:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:splitTrack
+     * @attr name com.akashgarg.app:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10965,11 +10965,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:switchMinWidth
+     * @attr name com.akashgarg.app:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10978,11 +10978,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:switchPadding
+     * @attr name com.akashgarg.app:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10990,11 +10990,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:switchTextAppearance
+     * @attr name com.akashgarg.app:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11003,22 +11003,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:thumbTextPadding
+     * @attr name com.akashgarg.app:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:thumbTint
+     * @attr name com.akashgarg.app:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11035,11 +11035,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:thumbTintMode
+     * @attr name com.akashgarg.app:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11047,22 +11047,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:track
+     * @attr name com.akashgarg.app:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:trackTint
+     * @attr name com.akashgarg.app:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11079,7 +11079,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:trackTintMode
+     * @attr name com.akashgarg.app:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -11141,22 +11141,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.dinesh.app:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.dinesh.app:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.dinesh.app:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.dinesh.app:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.dinesh.app:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.dinesh.app:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.dinesh.app:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.dinesh.app:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.dinesh.app:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.dinesh.app:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.dinesh.app:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.dinesh.app:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.dinesh.app:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.dinesh.app:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.dinesh.app:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.dinesh.app:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.akashgarg.app:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.akashgarg.app:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.akashgarg.app:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.akashgarg.app:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.akashgarg.app:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.akashgarg.app:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.akashgarg.app:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.akashgarg.app:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.akashgarg.app:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.akashgarg.app:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.akashgarg.app:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.akashgarg.app:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.akashgarg.app:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.akashgarg.app:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.akashgarg.app:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.akashgarg.app:tabTextColor}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -11182,7 +11182,7 @@ public final class R {
       0x7f030123, 0x7f030124, 0x7f030125, 0x7f030126
     };
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11190,11 +11190,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:tabBackground
+     * @attr name com.akashgarg.app:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11203,11 +11203,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabContentStart
+     * @attr name com.akashgarg.app:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11220,22 +11220,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:tabGravity
+     * @attr name com.akashgarg.app:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:tabIndicatorColor
+     * @attr name com.akashgarg.app:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11244,11 +11244,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabIndicatorHeight
+     * @attr name com.akashgarg.app:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11257,11 +11257,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabMaxWidth
+     * @attr name com.akashgarg.app:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11270,11 +11270,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabMinWidth
+     * @attr name com.akashgarg.app:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11287,11 +11287,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:tabMode
+     * @attr name com.akashgarg.app:tabMode
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11300,11 +11300,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabPadding
+     * @attr name com.akashgarg.app:tabPadding
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11313,11 +11313,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabPaddingBottom
+     * @attr name com.akashgarg.app:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11326,11 +11326,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabPaddingEnd
+     * @attr name com.akashgarg.app:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11339,11 +11339,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabPaddingStart
+     * @attr name com.akashgarg.app:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11352,22 +11352,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:tabPaddingTop
+     * @attr name com.akashgarg.app:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:tabSelectedTextColor
+     * @attr name com.akashgarg.app:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11375,18 +11375,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:tabTextAppearance
+     * @attr name com.akashgarg.app:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:tabTextColor
+     * @attr name com.akashgarg.app:tabTextColor
      */
     public static final int TabLayout_tabTextColor=15;
     /**
@@ -11407,8 +11407,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.dinesh.app:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.dinesh.app:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.akashgarg.app:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.akashgarg.app:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -11574,17 +11574,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:fontFamily
+     * @attr name com.akashgarg.app:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11594,7 +11594,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:textAllCaps
+     * @attr name com.akashgarg.app:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -11606,20 +11606,20 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.dinesh.app:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.dinesh.app:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.dinesh.app:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.dinesh.app:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.dinesh.app:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.dinesh.app:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.dinesh.app:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.dinesh.app:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.dinesh.app:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.dinesh.app:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.dinesh.app:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.dinesh.app:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.dinesh.app:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.dinesh.app:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.akashgarg.app:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.akashgarg.app:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.akashgarg.app:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.akashgarg.app:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.akashgarg.app:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.akashgarg.app:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.akashgarg.app:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.akashgarg.app:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.akashgarg.app:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.akashgarg.app:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.akashgarg.app:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.akashgarg.app:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.akashgarg.app:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.akashgarg.app:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -11670,26 +11670,26 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:counterEnabled
+     * @attr name com.akashgarg.app:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.dinesh.app:counterMaxLength
+     * @attr name com.akashgarg.app:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11697,11 +11697,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:counterOverflowTextAppearance
+     * @attr name com.akashgarg.app:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11709,21 +11709,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:counterTextAppearance
+     * @attr name com.akashgarg.app:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:errorEnabled
+     * @attr name com.akashgarg.app:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11731,31 +11731,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:errorTextAppearance
+     * @attr name com.akashgarg.app:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:hintAnimationEnabled
+     * @attr name com.akashgarg.app:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:hintEnabled
+     * @attr name com.akashgarg.app:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11763,21 +11763,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:hintTextAppearance
+     * @attr name com.akashgarg.app:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:passwordToggleContentDescription
+     * @attr name com.akashgarg.app:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11785,32 +11785,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:passwordToggleDrawable
+     * @attr name com.akashgarg.app:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.dinesh.app:passwordToggleEnabled
+     * @attr name com.akashgarg.app:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:passwordToggleTint
+     * @attr name com.akashgarg.app:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11826,7 +11826,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:passwordToggleTintMode
+     * @attr name com.akashgarg.app:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=15;
     /**
@@ -11838,33 +11838,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.dinesh.app:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.dinesh.app:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.dinesh.app:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.dinesh.app:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dinesh.app:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.dinesh.app:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.dinesh.app:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.dinesh.app:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dinesh.app:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.dinesh.app:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.dinesh.app:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.dinesh.app:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.dinesh.app:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.dinesh.app:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.dinesh.app:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.dinesh.app:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dinesh.app:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.dinesh.app:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.dinesh.app:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.dinesh.app:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.dinesh.app:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.dinesh.app:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.dinesh.app:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.dinesh.app:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.dinesh.app:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.dinesh.app:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.dinesh.app:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.akashgarg.app:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.akashgarg.app:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.akashgarg.app:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.akashgarg.app:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.akashgarg.app:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.akashgarg.app:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.akashgarg.app:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.akashgarg.app:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.akashgarg.app:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.akashgarg.app:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.akashgarg.app:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.akashgarg.app:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.akashgarg.app:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.akashgarg.app:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.akashgarg.app:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.akashgarg.app:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.akashgarg.app:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.akashgarg.app:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.akashgarg.app:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.akashgarg.app:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.akashgarg.app:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.akashgarg.app:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.akashgarg.app:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.akashgarg.app:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.akashgarg.app:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.akashgarg.app:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.akashgarg.app:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -11949,7 +11949,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11962,21 +11962,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:buttonGravity
+     * @attr name com.akashgarg.app:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:collapseContentDescription
+     * @attr name com.akashgarg.app:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11984,11 +11984,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:collapseIcon
+     * @attr name com.akashgarg.app:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11997,11 +11997,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetEnd
+     * @attr name com.akashgarg.app:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12010,11 +12010,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetEndWithActions
+     * @attr name com.akashgarg.app:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12023,11 +12023,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetLeft
+     * @attr name com.akashgarg.app:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12036,11 +12036,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetRight
+     * @attr name com.akashgarg.app:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12049,11 +12049,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetStart
+     * @attr name com.akashgarg.app:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12062,11 +12062,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:contentInsetStartWithNavigation
+     * @attr name com.akashgarg.app:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12074,21 +12074,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:logo
+     * @attr name com.akashgarg.app:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:logoDescription
+     * @attr name com.akashgarg.app:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12097,21 +12097,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:maxButtonHeight
+     * @attr name com.akashgarg.app:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:navigationContentDescription
+     * @attr name com.akashgarg.app:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12119,11 +12119,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:navigationIcon
+     * @attr name com.akashgarg.app:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12131,21 +12131,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:popupTheme
+     * @attr name com.akashgarg.app:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:subtitle
+     * @attr name com.akashgarg.app:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12153,32 +12153,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:subtitleTextAppearance
+     * @attr name com.akashgarg.app:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:subtitleTextColor
+     * @attr name com.akashgarg.app:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.dinesh.app:title
+     * @attr name com.akashgarg.app:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12187,11 +12187,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:titleMargin
+     * @attr name com.akashgarg.app:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12200,11 +12200,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:titleMarginBottom
+     * @attr name com.akashgarg.app:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12213,11 +12213,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:titleMarginEnd
+     * @attr name com.akashgarg.app:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12226,11 +12226,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:titleMarginStart
+     * @attr name com.akashgarg.app:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12239,11 +12239,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:titleMarginTop
+     * @attr name com.akashgarg.app:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12252,11 +12252,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:titleMargins
+     * @attr name com.akashgarg.app:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12264,18 +12264,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:titleTextAppearance
+     * @attr name com.akashgarg.app:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:titleTextColor
+     * @attr name com.akashgarg.app:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -12287,9 +12287,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.dinesh.app:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.dinesh.app:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.dinesh.app:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.akashgarg.app:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.akashgarg.app:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.akashgarg.app:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -12332,7 +12332,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12341,11 +12341,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:paddingEnd
+     * @attr name com.akashgarg.app:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12354,11 +12354,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.dinesh.app:paddingStart
+     * @attr name com.akashgarg.app:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12366,7 +12366,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.dinesh.app:theme
+     * @attr name com.akashgarg.app:theme
      */
     public static final int View_theme=4;
     /**
@@ -12377,8 +12377,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dinesh.app:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dinesh.app:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.akashgarg.app:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.akashgarg.app:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -12403,18 +12403,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.dinesh.app:backgroundTint
+     * @attr name com.akashgarg.app:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.dinesh.app.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.akashgarg.app.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12431,7 +12431,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.dinesh.app:backgroundTintMode
+     * @attr name com.akashgarg.app:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

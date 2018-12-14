@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/akashgarg/AndroidStudioProjects/KotlinMVP_Basic/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "D:\\StudioProjects\\Kotlin_MVP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/akashgarg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a115ea1bcd9483f4191295bf66d7f665/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\6e81e2f3108c3e9b3496827d95739aaf\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/akashgarg/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/17249b7506778a96bd142bbaabe4547a/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\aa22403366a48f0b1349006a8b02bca9\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
