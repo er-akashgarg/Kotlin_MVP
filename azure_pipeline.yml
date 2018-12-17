@@ -27,8 +27,15 @@ steps:
     apksignerKeystorePassword: android
     apksignerKeystoreAlias: mvpdemo
     apksignerKeyPassword: android
+    apkFiles: '**/*.apk'
 
 - task: PublishBuildArtifacts@1
     inputs:
       PathtoPublish: '$(System.DefaultWorkingDirectory)'
       name: 'drop'
+
+- task: GooglePlayRelease@2
+    inputs:
+      apkFile: '**/*.apk'
+      serviceEndpoint: 'staggingplay'
+      track: 'internal'

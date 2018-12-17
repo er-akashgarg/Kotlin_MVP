@@ -4,6 +4,7 @@ Basic Structure what we plan before starting a project. Its not very complex I h
 # Build environment requirements
 In order to build Kotlin distribution you need to have:
 >JDK 1.6, 1.7, 1.8 and 9
+
 # Setup environment variables as following:
  > JAVA_HOME="path to JDK 1.8"
  

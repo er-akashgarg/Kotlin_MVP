@@ -1,0 +1,4 @@
+#Sun Nov 25 15:34:49 MMT 2018
+base.0=/Users/akashgarg/AndroidStudioProjects/KotlinMVP_Basic/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
