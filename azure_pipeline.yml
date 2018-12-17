@@ -9,7 +9,6 @@ queue:
   - JDK
   - AndroidSDK
 
-
 steps:
 - task: Gradle@2
   displayName: 'gradlew build'
@@ -28,6 +27,12 @@ steps:
     apksignerKeystoreAlias: mvpdemo
     apksignerKeyPassword: android
     apkFiles: '**/*.apk'
+
+
+- task: CopyFiles@2
+  inputs:
+    contents: '**/*.apk'
+    targetFolder: '$(build.artifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
     inputs:
