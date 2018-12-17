@@ -28,7 +28,6 @@ steps:
     apksignerKeyPassword: android
     apkFiles: '**/*.apk'
 
-
 - task: CopyFiles@2
   inputs:
     contents: '**/*.apk'
@@ -38,9 +37,3 @@ steps:
     inputs:
       PathtoPublish: '$(System.DefaultWorkingDirectory)'
       name: 'drop'
-
-- task: GooglePlayRelease@2
-    inputs:
-      apkFile: '**/*.apk'
-      serviceEndpoint: 'staggingplay'
-      track: 'internal'
